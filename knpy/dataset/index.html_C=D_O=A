@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /knpy/dataset</title>
+ </head>
+ <body>
+<h1>Index of /knpy/dataset</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=D">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/knpy/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="challenger.csv">challenger.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">370 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="concrete.csv">concrete.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right"> 48K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="credit.csv">credit.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">156K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="groceries.csv">groceries.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">489K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="insurance.csv">insurance.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right"> 53K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="letterdata.csv">letterdata.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">735K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mushrooms.csv">mushrooms.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">365K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sms_spam.csv">sms_spam.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">489K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="snsdata.csv">snsdata.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">2.5M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="usedcars.csv">usedcars.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">4.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="whitewines.csv">whitewines.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">258K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="winequality-white.csv">winequality-white.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">258K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="wisc_bc_data.csv">wisc_bc_data.csv</a></td><td align="right">2016-06-22 12:39  </td><td align="right">123K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.10 (Debian) Server at 172.16.180.32 Port 80</address>
+</body></html>
